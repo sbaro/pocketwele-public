@@ -37,29 +37,13 @@ même appareil.
 
 ## 📫 Contact
 
-Un projet, une collaboration, ou juste un bonjour — on lit tout.
+Un retour, ou juste un bonjour — on lit tout. Pour les bugs (et oui, ça existe encore) ou les améliorations, vous pouvez utilisez les "Issues" Github. 
 
 ✉️ **bonjour@chezoime.fr**
 
-<!-- Réseaux (décommente et complète quand tu veux) :
-- [X / Twitter](https://x.com/chezoime)
-- [Instagram](https://instagram.com/chezoime)
-- [GitHub](https://github.com/chezoime)
--->
 
 ---
 
 <div align="center">
 <sub>© 2026 Chezoime Studio · Fait avec soin 🌱</sub>
 </div>
-
-<!-- ============================================================
-     COMMENT METTRE À JOUR CETTE PAGE
-     ------------------------------------------------------------
-     • Nouveau jeu : copie le bloc "### NomDuJeu …" sous "Nos
-       productions" et adapte le texte + le tableau.
-     • Sur GitHub : nomme ce fichier README.md à la racine d'un
-       dépôt (public) — il s'affiche automatiquement sur la page
-       d'accueil du dépôt. Pour une page web GitHub Pages, ce
-       même README peut servir de contenu d'accueil.
-     ============================================================ -->
