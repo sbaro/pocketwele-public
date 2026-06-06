@@ -45,5 +45,5 @@ Un retour, ou juste un bonjour — on lit tout. Pour les bugs (et oui, ça exist
 ---
 
 <div align="center">
-<sub>© 2026 Chezoime Studio · Fait avec soin 🌱</sub>
+<sub>© 2026 Chezoime Studio · Fait avec soin, en attendant notre site en bourgeonnement 🌱</sub>
 </div>
