@@ -39,7 +39,7 @@ même appareil.
 
 Un projet, une collaboration, ou juste un bonjour — on lit tout.
 
-✉️ **bonjour@chezoime.com**
+✉️ **bonjour@chezoime.fr**
 
 <!-- Réseaux (décommente et complète quand tu veux) :
 - [X / Twitter](https://x.com/chezoime)
